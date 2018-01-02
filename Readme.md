@@ -10,12 +10,16 @@ Install Go Language.
 Go to https://golang.org/doc/ for installation instructions.
 
 Build:
+```
 $ go build main.go
+```
 
 Run:
-
+```
 $ ./main
+```
 
 Query using a browser:
-
+```
 http://localhost:3000/api/v1/excel
+```
